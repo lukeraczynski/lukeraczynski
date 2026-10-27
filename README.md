@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="banner.svg" alt="Luke Raczynski: accountant who ships software" width="100%">
+  <img src="banner.png" alt="Luke Raczynski: accountant who codes" width="100%">
 </p>
 
 <p align="center">
-  <img src="typing.svg" alt="Accountant, founder of Lean Ledger / Software developer, internal tooling / Automating the boring bits of accounting">
+  <img src="typing.svg" alt="Founder of Lean Ledger / Software developer, internal tooling / Automating the boring bits of accounting">
 </p>
 
 <p align="center">
