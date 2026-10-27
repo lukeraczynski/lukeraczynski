@@ -36,7 +36,7 @@ Having both jobs is the point. I know where the hours go in a real practice, so 
 
 > Most of these live in private repos for now. Happy to talk through any of them.
 
-## 🧰 How I work
+## 💻 How I work
 
 - **Python first** for data and back-office tooling (`uv`, Textual TUIs, Django/Wagtail for the web side)
 - **Swift** for small native macOS utilities, **Rust** when I want something fast and sturdy
