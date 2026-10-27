@@ -1,8 +1,9 @@
-<h1 align="center">Luke Raczynski</h1>
+<p align="center">
+  <img src="banner.svg" alt="Luke Raczynski: accountant who ships software" width="100%">
+</p>
 
 <p align="center">
-  <b>Accountant who writes code.</b><br>
-  Founder of <a href="https://leanledger.co.uk">Lean Ledger</a> · South London · building tools that make UK accounting less manual
+  <img src="typing.svg" alt="Accountant, founder of Lean Ledger / Software developer, internal tooling / Automating the boring bits of accounting">
 </p>
 
 <p align="center">
@@ -19,15 +20,14 @@
 
 ## 👋 About me
 
-I run **Lean Ledger Ltd**, an accountancy practice for tech-forward startups and small businesses in London. I got tired of re-keying the same data, so I build the tools I wish I had: statement converters, trial balance mappers, client registers and Companies House lookups.
+I'm a **software developer** who builds internal tooling and automation, mostly in Python, with the occasional native macOS app in Swift. I'm also an accountant: I run **Lean Ledger Ltd**, a practice for tech-forward startups and small businesses in London.
 
-I like software that is **local-first**, **auditable** and honest about what it doesn't know. Accounting is a good test of that, because a number you can't trace is a number you can't trust.
+Having both jobs is the point. I know where the hours go in a real practice, so I build the tools that give them back: statement converters, trial balance mappers, client registers and Companies House lookups. I like software that is **local-first**, **auditable** and honest about what it doesn't know, because a number you can't trace is a number you can't trust.
 
 ## 🔭 What I'm building
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Numea** | Local-first accounting for UK micro-entities (FRS 105): AI invoice extraction, bank categorisation, accounts production | Python |
 | **Fieldbase** | Client register for an accountancy practice: your data beside Companies House data, every change recorded | Python, SQLite |
 | **Transaction Converter** | Auditable PDF bank statement → CSV/Excel using OCR and LLM extraction, with checks against the PDF's own text | Python |
 | **LeanTools** | Companies House TUI, TB → TaxCalc mapping and more, exposed to AI assistants over MCP | Python, MCP |
@@ -45,7 +45,6 @@ I like software that is **local-first**, **auditable** and honest about what it 
 ## 🌱 Currently exploring
 
 - Wiring more of the practice workflow into MCP so an assistant can do the boring parts safely
-- Local-first accounts production under FRS 105
 - Better OCR sanity checks for scanned financial documents
 
 ## 📫 Say hello
